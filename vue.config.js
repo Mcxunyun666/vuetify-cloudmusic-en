@@ -1,7 +1,7 @@
 module.exports = {
   transpileDependencies: ['vuetify'],
   devServer: {
-    port: 8888
+    port: 8099
   },
   pwa: {
     name: 'Vuetify CloudMusic',
